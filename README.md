@@ -1,5 +1,7 @@
 # Tugas Besar Analisis Kompleksitas Algoritma
 
+Semester ganjil 2024/2025
+Kelas: IF-47-02 PJJ
 Kelompok 10:
 - Abdul Malik (103042310065)
 - Ana Zulfia (103042310080)
