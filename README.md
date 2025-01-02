@@ -1,10 +1,10 @@
 # Tugas Besar Analisis Kompleksitas Algoritma
 
-Semester ganjil 2024/2025
-Kelas: IF-47-02 PJJ
-Kelompok 10:
-- Abdul Malik (103042310065)
-- Ana Zulfia (103042310080)
+- Semester ganjil 2024/2025
+- Kelas IF-47-02 PJJ
+- Kelompok 10:
+  - Abdul Malik (103042310065)
+  - Ana Zulfia (103042310080)
 
 ## Deskripsi
 Program dibuat untuk menampilkan hasil pengujian algoritma dengan penulisan secara Iteratif dan Rekursif. Tipe algoritma pengurutan yang digunakan adalah *Selection Sort*.
